@@ -1,0 +1,5 @@
+classes= 1
+train  =/content/darknet/knife/train.txt
+valid  = /content/darknet/knife/val.txt
+names = /content/darknet/knife/yolo.names
+backup = backup
